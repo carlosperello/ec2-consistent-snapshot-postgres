@@ -1,3 +1,5 @@
+***WARNING***: This command is not finished nor working right now, it was a proof of concept so don't expect it to even work...
+
 NAME
     ec2-consistent-snapshot-postgres - Create EBS snapshots on EC2 w/consistent
     filesystem/db
